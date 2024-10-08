@@ -1,15 +1,12 @@
 # DhawalShankar.github.io
-As an engineer, I debug the programs and look for efficient ways to solve the real world problems!
+I am an Engineer by day and a poet by night!
+Writing is my passion and code is my delight! 
 
-As a poet I infuse emotions in my code to spark innovation!
+From a young age, I was compelled by the charisma of computers. This early fondness led me to explore software development and programming languages. As the first engineer in my family, I have developed a unique perspective and a blazing desire to revolutionize the industry.
 
-I have been working on complexities and programming languages since I came across computers for the first time. Being the first engineer in my family, I have an unmatched perspective and a burning desire to bring into being an exceptional transformation in the industry.
+My lifelong love of reading and writing has shaped me as a well-rounded individual. These creative recreations complement my technological abilities and contribute to my ability to think critically and communicate effectively.
 
-I love reading and writing since my childhood which makes me distinct as a human being.
-
-The unfair advantage that I may have is the habit of being obsessed with what I do. 
-
-My hope and faith in the divine gives me momentum!
+My hope and faith in the divine give me momentum!
 
 Come onboard!
-Let's bring a change for better!
+Let's bring a change for the better!
