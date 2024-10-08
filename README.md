@@ -1,6 +1,6 @@
 # DhawalShankar.github.io
-I am an Engineer by day and a poet by night!
-Writing is my passion and code is my delight! 
+### I am an Engineer by day and a poet by night!
+### Writing is my passion and code is my delight! 
 
 From a young age, I was compelled by the charisma of computers. This early fondness led me to explore software development and programming languages. As the first engineer in my family, I have developed a unique perspective and a blazing desire to revolutionize the industry.
 
