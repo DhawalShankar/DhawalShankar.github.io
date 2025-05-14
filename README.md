@@ -65,6 +65,3 @@ Feel free to connect with me for discussions, collaborations, or opportunities:
 
 Thank you for checking out my portfolio. I am excited to continue growing and learning, and I’m open to opportunities where I can contribute and make a meaningful impact.
 
----
-
-This version stays **genuine** and doesn’t embellish anything, focusing on your **current learning and skills** while maintaining a **forward-looking** tone. Let me know if you want to tweak anything further!
